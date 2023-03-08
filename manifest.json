@@ -8,6 +8,12 @@
       "type": "url",
       "value": "/assets/label_printer_logo.png"
    },
+   "contentSecurity": {
+       "sandbox": {
+           "modals": true,
+           "popups": true
+       }
+   },
    "pages": {
       "config": "/#/config",
       "settings": "/#/settings",
